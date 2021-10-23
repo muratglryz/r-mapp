@@ -8,7 +8,7 @@
 
 ### cd client
 
-### npm install
+### install packets
 
 ### npm start
 
